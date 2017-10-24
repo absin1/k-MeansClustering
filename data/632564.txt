@@ -1,0 +1,1 @@
+Embedded Testing Should have knowledge on Manual and Automation Testing. Should have knowledge on Hardware testing. Python Scripting Should have knowledge on tools like Appium or Product Stub. . Should have knowledge on the techniques used for testingB TEC

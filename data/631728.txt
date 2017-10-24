@@ -1,0 +1,1 @@
+Design of Test Strategy,Test cases and Test data. Develop,document Test Scenarios and Cases based on functional profiles,Regression and verification testing.Test requirement definition, test design, test script,test data development,test automation.Please refer to the Job description above

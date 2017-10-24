@@ -1,0 +1,1 @@
+Looking for Automation Engineers for implementing acceptance tests using Appium & Java.Recent one year experience should be testing Android/iOS application.Candidate should have 5 plus years of experience working as automation engineer for writing automated acceptance tests for Native iOS and Android Mobile Apps. Experience in Appium, java, selenium are the mandatory skills.

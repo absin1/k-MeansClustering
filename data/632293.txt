@@ -1,0 +1,1 @@
+- Hands on experience in C programming, C++ and Real-time embedded software development - Experience developing scripts such as Shell, Python. - Hands on experience testing/debugging software, firmware and electronic control systems 

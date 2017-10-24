@@ -1,0 +1,1 @@
+Preparation of the Hardware design document Hardware board bring up and design validation testing of the hardware boards and systems MandatorySkills: Board Design Experience (In Month) : 36 Qualification: B.Tech 
